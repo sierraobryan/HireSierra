@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:padding="12dp"
+>
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:textSize="16dp"
+                  android:id="@+id/name"
+                  tools:text="Name"
+        />
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/date"
+                  tools:text="Date"
+        />
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:id="@+id/comment"
+                  tools:text="Comment"
+        />
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:paddingTop="4dp"
+    android:orientation="horizontal">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                   android:id="@+id/heart1"
+        android:src="@drawable/ic_favorite_black_24dp"/>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                   android:id="@+id/heart2"
+                   android:src="@drawable/ic_favorite_black_24dp"/>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                   android:id="@+id/heart3"
+                   android:src="@drawable/ic_favorite_black_24dp"/>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                   android:id="@+id/heart4"
+                   android:src="@drawable/ic_favorite_black_24dp"/>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                   android:id="@+id/heart5"
+                   android:src="@drawable/ic_favorite_black_24dp"/>
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

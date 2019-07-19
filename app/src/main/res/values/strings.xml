@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hire Me By Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="reasons">Reasons</string>
+    <string name="hire_Sierra">You should hire Sierra.</string>
+    <string name="comments">Reviews</string>
+    <string name="what_people_are_saying_about_sierra">What People are Saying about Sierra</string>
+    <string name="share_the_love">Share the Love!</string>
+    <string name="leave_review">Leave a Review!</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="review">Review</string>
+    <string name="rating">Rating</string>
+    <string name="save">Save</string>
+    <string name="oops">Oops, something went wrong!</string>
+    <string name="check_out_resume">Check out her resume instead.</string>
+    <string name="loading">Loading...</string>
+    <string name="trump_quote">Trump Quote</string>
+    <string name="insult">Insult</string>
+    <string name="dog_pic">Here\'s a Dog Pic</string>
+    <string name="okay">Okay</string>
+    <string name="doh"> Doh, something went wrong!</string>
+    <string name="analytics">Analytics</string>
+    <string name="reasons_to_hire"> Reasons to Hire Sierra</string>
+    <string name="clear">Clear All Analytics</string>
+    <string name="are_you_sure">Are you sure you want to clear all analytics?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="resume">Resume</string>
+    <string name="improvements">Improvements</string>
+    <string name="other_useful">Other Useful Things</string>
+</resources>
